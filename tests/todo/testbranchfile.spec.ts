@@ -1,5 +1,5 @@
 //newbranch file creation
-
+//file creation on same file for trunk based development
 
 console.log("New branch created");
 
@@ -10,3 +10,8 @@ console.log("New branch created");
 console.log("1-2-3-4");
 
 
+
+
+
+
+//line 10 update
